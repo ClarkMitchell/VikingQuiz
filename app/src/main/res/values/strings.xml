@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">VikingQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Prev</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="info_toast">This is a placeholder for textual information pertaining to the question.</string>
+    <string name="question1">Vikings wore horned helmets.</string>
+    <!-- false -->
+    <string name="question1_info">Forget almost every Viking warrior costume you’ve ever seen. Sure, the pugnacious Norsemen probably sported headgear, but that whole horn-festooned helmet look? Depictions dating from the Viking age don’t show it, and the only authentic Viking helmet ever discovered is decidedly horn-free. Painters seem to have fabricated the trend during the 19th century, perhaps inspired by descriptions of northern Europeans by ancient Greek and Roman chroniclers. Long before the Vikings time, Norse and Germanic priests did indeed wear horned helmets for ceremonial purposes.</string>
+    <string name="question2">Vikings were known for their excellent hygiene.</string>
+    <!-- True -->
+    <string name="question2_info">Between rowing boats and decapitating enemies, Viking men must have stunk to high Valhalla, right? Quite the opposite. Excavations of Viking sites have turned up tweezers, razors, combs and ear cleaners made from animal bones and antlers. Vikings also bathed at least once a week—much more frequently than other Europeans of their day—and enjoyed dips in natural hot springs.</string>
+    <string name="question3">Vikings used a unique liquid to start fires.</string>
+    <!-- True -->
+    <string name="question3_info">Clean freaks though they were, the Vikings had no qualms about harnessing the power of one human waste product. They would collect a fungus called touchwood from tree bark and boil it for several days in urine before pounding it into something akin to felt. The sodium nitrate found in urine would allow the material to smolder rather than burn, so Vikings could take fire with them on the go.</string>
+    <string name="question4">Vikings buried their dead in boats.</string>
+    <!-- True -->
+    <string name="question4_info">There’s no denying Vikings loved their boats—so much that it was a great honor to be interred in one. In the Norse religion, valiant warriors entered festive and glorious realms after death, and it was thought that the vessels that served them well in life would help them reach their final destinations. Distinguished raiders and prominent women were often laid to rest in ships, surrounded by weapons, valuable goods and sometimes even sacrificed slaves.</string>
+    <string name="question5">Vikings did not have slavery.</string>
+    <!-- False -->
+    <string name="question5_info">Many Vikings got rich off human trafficking. They would capture and enslave women and young men while pillaging Anglo-Saxon, Celtic and Slavic settlements. These “thralls,” as they were known, were then sold in giant slave markets across Europe and the Middle East.</string>
+    <string name="question6">Viking women had no rights.</string>
+    <!-- False -->
+    <string name="question6_info">Viking girls got hitched as young as 12 and had to mind the household while their husbands sailed off on adventures. Still, they had more freedom than other women of their era. As long as they weren’t thralls, Viking women could inherit property, request a divorce and reclaim their dowries if their marriages ended.</string>
+    <string name="question7">Viking men spent most of their time farming.</string>
+    <!-- True -->
+    <string name="question7_info">This may come as a disappointment, but most Viking men brandished scythes, not swords. True, some were callous pirates who only stepped off their boats to burn villages, but the vast majority peacefully sowed barley, rye and oats—at least for part of the year. They also raised cattle, goats, pigs and sheep on their small farms, which typically yielded just enough food to support a family.</string>
+    <string name="question8">Vikings skied for fun.</string>
+    <!-- True -->
+    <string name="question8_info">Scandinavians developed primitive skis at least 6,000 years ago, though ancient Russians may have invented them even earlier. By the Viking Age, Norsemen regarded skiing as an efficient way to get around and a popular form of recreation. They even worshipped a god of skiing, Ullr.</string>
+    <string name="question9">Vikings sometimes dyed their hair blonde.</string>
+    <!-- True -->
+    <string name="question9_info">To conform to their culture’s beauty ideals, brunette Vikings—usually men—would use a strong soap with a high lye content to bleach their hair. In some regions, beards were lightened as well. It’s likely these treatments also helped Vikings with a problem far more prickly and rampant than mousy manes: head lice.</string>
+    <string name="question10">Vikings were never part of a unified group.</string>
+    <!-- True -->
+    <string name="question10_info">Vikings didn’t recognize fellow Vikings. In fact, they probably didn’t even call themselves Vikings: The term simply referred to all Scandinavians who took part in overseas expeditions. During the Viking Age, the land that now makes up Denmark, Norway and Sweden was a patchwork of chieftain-led tribes that often fought against each other—when they weren’t busy wreaking havoc on foreign shores, that is.</string>
+    <string name="warning_text">View the answer?</string>
+    <string name="show_answer_button">Show</string>
+    <string name="cheat_button">No idea</string>
+    <string name="judgement_toast">And now you know.</string>
+    <string name="title_activity_cheat">Cheat</string>
+
+</resources>
